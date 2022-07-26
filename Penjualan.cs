@@ -7,7 +7,7 @@ namespace ProjectPenjualan
 {
     public class Penjualan
     {
-        public int Code { get; set; 
+        public int Code { get; set; }
         public string Tanggal { get; set; }
         public string Nama { get; set; }
         public string Jenis { get; set; }
