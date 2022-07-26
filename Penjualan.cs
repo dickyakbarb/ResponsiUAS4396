@@ -7,8 +7,7 @@ namespace ProjectPenjualan
 {
     public class Penjualan
     {
-        // PERINTAH: lengkapi property class penjualan, sesuai petunjuk soal
-        public int Code { get; set; }
+        public int Code { get; set; 
         public string Tanggal { get; set; }
         public string Nama { get; set; }
         public string Jenis { get; set; }
